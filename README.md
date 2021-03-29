@@ -1,2 +1,7 @@
-# Practica2SOIIDMD
-Practica 2 Sistemas Operativos 2 LDMD
+# Los discos mas duros
+- Arce Medina Valeria
+- Azamar Avilés Santiago
+- Cardoso Martinez Luis Fernando
+- Carreón Alonso Sebastián
+- Castillo Corona Enrique
+- Izaguirre Camacho Jorge
